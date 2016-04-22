@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Newton Farm Stables
-datePublished: '2016-04-22T15:01:49.627Z'
-dateModified: '2016-04-22T14:58:00.906Z'
+datePublished: '2016-04-22T17:50:34.294Z'
+dateModified: '2016-04-22T17:50:19.400Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-22-newton-farm-stables.md
@@ -17,7 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: newton-farm-stables/index.html
 _type: Article
 
@@ -32,3 +32,4 @@ Individual or group lessons are offered from our BHS qualified instructor for ow
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68da32f7-0dbb-41b7-bfe6-ac34773759e2.png)
 
 A selection of safe, off-road hacking routes are directly accessible from the stable block.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65461b4a-d52b-404a-9b32-11d13179852d.jpg)
