@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Newton Farm Stables
-datePublished: '2016-04-22T17:50:34.294Z'
-dateModified: '2016-04-22T17:50:19.400Z'
+datePublished: '2016-04-22T17:52:00.266Z'
+dateModified: '2016-04-22T17:51:34.352Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-22-newton-farm-stables.md
@@ -22,6 +22,8 @@ url: newton-farm-stables/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af7010e3-ecc0-43ea-88a7-def2c9a54889.png)
+
 Newton Farm Stables
 
 We are a small family-friendly yard located at Newton Farm, just outside Wormit village, Fife.
