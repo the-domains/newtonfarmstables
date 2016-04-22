@@ -1,7 +1,7 @@
 name: NewtonFarmStables
 favicon: null
 layout_spectrum: 0.4040262794587761
-typography_spectrum: 0.7108996447641402
+typography_spectrum: 0.83494
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#a2b4ca'
     - '#8d817d'
     - '#e9d4b2'
-  brandStrength: 0.48892929404973984
+  brandStrength: 0.5
   lightness: 0.4613901579286903
   saturation: 0.8159953108988702
   rhythmicContrast: 0.5034937032032758
