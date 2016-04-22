@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[NewtonFarmStables]]></title>
-        <description><![CDATA[NewtonFarmStables]]></description>
+        <title><![CDATA[Newton Farm Stables]]></title>
+        <description><![CDATA[Newton Farm Stables]]></description>
         <link>https://thegrid.ai/newtonfarmstables/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 15:01:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 17:52:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/newtonfarmstables/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Newton Farm Stables</p>]]></description>
             <link>https://thegrid.ai/newtonfarmstables/newton-farm-stables/index.html</link>
             <guid isPermaLink="false">7844887b-281c-4263-870d-3348bc4bb341</guid>
-            <pubDate>Fri, 22 Apr 2016 15:01:49 GMT</pubDate>
+            <pubDate>Fri, 22 Apr 2016 17:50:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
