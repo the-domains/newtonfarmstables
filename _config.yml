@@ -1,4 +1,4 @@
-name: NewtonFarmStables
+name: Newton Farm Stables
 favicon: null
 layout_spectrum: 0.4040262794587761
 typography_spectrum: 0.83494
@@ -21,8 +21,8 @@ color:
     - '#a2b4ca'
     - '#8d817d'
     - '#e9d4b2'
-  brandStrength: 0.5
-  lightness: 0.4613901579286903
-  saturation: 0.8159953108988702
-  rhythmicContrast: 0.5034937032032758
+  brandStrength: 0.6875
+  lightness: 0.25
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
