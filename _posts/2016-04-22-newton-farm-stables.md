@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Newton Farm Stables
-datePublished: '2016-04-23T16:01:02.985Z'
-dateModified: '2016-04-23T16:00:40.411Z'
+datePublished: '2016-04-23T16:02:37.513Z'
+dateModified: '2016-04-23T16:02:15.363Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-22-newton-farm-stables.md
@@ -38,7 +38,7 @@ A selection of safe, off-road hacking routes are directly accessible from the st
 
 # Our livery prices:
 
-**Assisted --       £40 per week**
+**Assisted -- £40 per week**
 
 **Half Livery -- £55 per week**
 
@@ -52,7 +52,7 @@ A selection of safe, off-road hacking routes are directly accessible from the st
 
 Individual or Small Group lessons with qualified B.H.S.A.I. are available:
 
-Individual: 
+**Individual: **
 
 30 minutes -- £13
 
@@ -60,12 +60,12 @@ Individual:
 
 1 hour -- £21
 
-Group:
+**Group:**
 
 30 minutes -- £10
 
 45 minutes -- £14
 
-1 hour            -- £18
+1 hour -- £18
 
 [0]: null
