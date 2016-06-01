@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Newton Farm Stables
-datePublished: '2016-06-01T14:55:14.700Z'
-dateModified: '2016-06-01T14:55:05.262Z'
+datePublished: '2016-06-01T19:01:02.356Z'
+dateModified: '2016-06-01T14:57:08.997Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-22-newton-farm-stables.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: newton-farm-stables/index.html
 _type: Article
 
