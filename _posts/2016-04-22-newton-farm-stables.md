@@ -5,19 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Newton Farm Stables
-datePublished: '2016-04-23T16:02:37.513Z'
-dateModified: '2016-04-23T16:02:15.363Z'
+datePublished: '2016-06-01T14:53:08.243Z'
+dateModified: '2016-06-01T14:52:03.888Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-22-newton-farm-stables.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
+publisher: null
+starred: true
 url: newton-farm-stables/index.html
 _type: Article
 
@@ -25,10 +20,11 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af7010e3-ecc0-43ea-88a7-def2c9a54889.png)
 
 **[Newton Farm Stables][0]**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c97ebfc9-c35b-47da-895d-a53fa6dcc69a.jpg)
 
-We are a small family-friendly yard located at Newton Farm, just outside Wormit village, Fife.
+We are a small (19 horse maximum) family-friendly yard located at Newton Farm, just outside Wormit village, Fife.
 
-Full, half or assisted livery spaces are available now at competitive rates in our recently constructed yard . In addition to stabling, office and individual tack storage areas we offer the use of a floodlit "all-weather" school with a variety of show jumps.
+Full, half or assisted livery spaces are available now at competitive rates in our yard . In addition to stabling, office and individual tack storage areas we offer the use of a floodlit "all-weather" school with a variety of show jumps.
 
 Individual or group lessons are offered from our BHS qualified instructor for owners of horses in the yard.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68da32f7-0dbb-41b7-bfe6-ac34773759e2.png)
@@ -47,6 +43,7 @@ A selection of safe, off-road hacking routes are directly accessible from the st
 **_We currently do not offer D.I.Y. livery._**
 
 **__**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20bfa75d-5ee3-40a4-b57e-033e58a81b33.jpg)
 
 ## LESSONS
 
@@ -67,5 +64,7 @@ Individual or Small Group lessons with qualified B.H.S.A.I. are available:
 45 minutes -- £14
 
 1 hour -- £18
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f32f2b86-7816-4e15-8f65-ba7de6d877a8.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec6fccde-3996-4317-a084-4a514e142380.jpg)
 
 [0]: null
